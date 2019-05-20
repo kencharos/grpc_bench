@@ -1,0 +1,5 @@
+profile: grpc
+defaultPackage: server.app
+---
+testFramework: junit
+sourceLanguage: java

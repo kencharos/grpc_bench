@@ -1,0 +1,9 @@
+micronaut:
+  sever:
+    port: 8080
+  application:
+    name: client-app
+
+grpc:
+  client:
+    plaintext: true

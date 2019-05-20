@@ -1,0 +1,9 @@
+micronaut:
+  server:
+    port: 8081
+  application:
+    name: server-app
+
+grpc:
+  server:
+    port: 6565
